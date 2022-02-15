@@ -1,0 +1,8 @@
+{
+  "name": "example-next-12-monorepo",
+  "version": "0.0.0",
+  "repository": "https://github.com/ondrejsika/example-next-12-monorepo.git",
+  "author": "Ondrej Sika <ondrej@ondrejsika.com>",
+  "license": "MIT",
+  "private": true
+}
