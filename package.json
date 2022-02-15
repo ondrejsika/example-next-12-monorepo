@@ -20,6 +20,8 @@
     "prettier-check": "prettier --check .",
     "prettier-write": "prettier --write .",
     "dev:ondrejsika-cz": "yarn --cwd sites/ondrejsika-cz run dev",
-    "static:ondrejsika-cz": "yarn --cwd sites/ondrejsika-cz run static"
+    "dev:ondrejsika-en": "yarn --cwd sites/ondrejsika-en run dev",
+    "static:ondrejsika-cz": "yarn --cwd sites/ondrejsika-cz run static",
+    "static:ondrejsika-en": "yarn --cwd sites/ondrejsika-en run static"
   }
 }
