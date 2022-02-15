@@ -1,10 +1,11 @@
 import React from "react";
 import BaseLayout from "@themes/ondrejsika-theme/layouts/BaseLayout";
+import H1 from "@libs/common/components/H1";
 
 export default function Index() {
   return (
     <BaseLayout>
-      <h1>Hello ondrejsika.io (EN)</h1>
+      <H1>Hello ondrejsika.io (EN)</H1>
     </BaseLayout>
   );
 }
